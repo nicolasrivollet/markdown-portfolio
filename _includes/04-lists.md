@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Things I love:
+1. Food
+2. Sun
+3. Github!
